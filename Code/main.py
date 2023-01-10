@@ -1,4 +1,6 @@
 from DRCF import *
+fron Toolchanger import grab_tool
+fron Toolchanger import dump_tool
 
 #snelheden voor normale omstandigheden
 velocity = 150
